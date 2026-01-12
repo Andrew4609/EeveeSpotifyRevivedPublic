@@ -2,7 +2,7 @@ name: Create IPA Packages
 
 on: 
   workflow_dispatch:
-    inputs:
+    inputs: 
       ipa_url:
         description: "URL to the decrypted IPA file"
         default: ""
