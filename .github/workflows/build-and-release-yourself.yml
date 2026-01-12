@@ -1,6 +1,6 @@
 name: Create IPA Packages
 
-on:
+on: 
   workflow_dispatch:
     inputs:
       ipa_url:
